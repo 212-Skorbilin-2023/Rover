@@ -1,0 +1,3 @@
+command_file = command.txt
+log_boundary = log_b.txt
+log_control = log_c.txt
