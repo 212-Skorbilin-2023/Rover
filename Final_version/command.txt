@@ -1,0 +1,4 @@
+field 10 10
+load
+rover 0 0 1 1 0
+processor 1 1 126 126
